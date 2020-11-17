@@ -3291,4 +3291,4 @@
 
 - [@ColinGM-dev](https://github.com/ColinGM-dev)
 
-- [@olaia] (https://github.com/olaia)
+- [@olaia](https://github.com/olaia)
